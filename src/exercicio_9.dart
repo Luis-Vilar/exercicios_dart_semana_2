@@ -11,7 +11,6 @@ apenas se ela estiver nula. Imprima o resultado final.
 
 void main(){
 
-
   String? apelido ;
 
   apelido = apelido ?? 'Player 1' ;
